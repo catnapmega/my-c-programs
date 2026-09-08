@@ -2,7 +2,7 @@
 int main()
 {
 char a;
-printf("enter the character you want to covert");
+printf("enter the character you want to covnert");
 scanf("%c",&a);
 if(a>='a'&&a<='z')
 {
